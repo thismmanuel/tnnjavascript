@@ -1,5 +1,11 @@
-for (age = 2; age < 10; age++) {
-    console.log("Your age is less than 10");
-}
+var runTest = 'It\'s one of the best feelings ever when you click the run test button on freecodecamp and it gives you one of those amazing expressions. Totally priceless. It\'s one of the best ever.';
 
-document.write("Your are now over 10");
+var testNum;
+
+testNum = console.log(runTest.length);
+
+runTestNum = runTest.length;
+
+if (runTestNum > 150){
+    document.write(runTest is in excess of 150);
+};
